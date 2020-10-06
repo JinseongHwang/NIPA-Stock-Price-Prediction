@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Additional ignore list
+*.pdf
+*.xlsx
+test.py
