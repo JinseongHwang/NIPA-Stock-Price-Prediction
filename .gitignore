@@ -130,5 +130,7 @@ dmypy.json
 
 # Additional ignore list
 *.pdf
+*.img
+*.png
 *.xlsx
 test.py
